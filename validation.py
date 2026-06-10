@@ -7,7 +7,7 @@ import re
 def validate_student_id(student_id: str) -> str:
     """Validate and normalize a student id.
 
-    For a university assignment, we keep validation beginner-friendly.
+
     Rule used here:
     - Must start with 'S' (uppercase)
     - Followed by exactly 6 digits
