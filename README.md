@@ -53,9 +53,15 @@ This project demonstrates:
 * Function reuse across modules
 * Building a console-based application
 
-## Validation Result
+Validation
+The system has been tested against the assignment requirements, including:
+- Package and module structure
+- File handling operations
+- Input validation
+- Feature completeness
 
-Assignment Compliance Score: **96/100 (A Grade)**
+All core requirements have been implemented successfully.
 
-All required assignment criteria were successfully implemented and validated.
-
+Limitations
+- Data is stored in text files (no database integration)
+- Console-based interface only
